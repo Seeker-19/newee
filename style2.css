@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(241, 241, 145);
+    margin:0;
+    text-align:center;
+    font-family:"Merriweather",serif;
+    font-size:1em;
+}
+.topcontainer{
+    background-color:cyan ;
+    padding-top:90px;
+
+}
+h1{
+    margin-top:0px;
+}
+h2{
+    font-size:2rem;
+}
+#span
+{
+    text-decoration: underline;
+}
+
+.bottom-cloud
+{
+    position:absolute;
+    right:300px;
+    
+}
+.top-cloud
+{
+    position:absolute;
+    left:300px;
+    top:200px;
+    
+}
+.skill-row
+{
+    width:25%;
+    margin:50px auto 50px auto;
+    text-align:left;
+
+}
+.lorsen
+{
+    width:170px;
+    height:190px;
+    margin-right:40px;
+    border-radius:90%;
+    float:left;
+}
